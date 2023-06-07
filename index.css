@@ -32,5 +32,30 @@
     border-radius: 9px;  
     box-shadow: 5px 5px 5px #6f6d6dfe;
    }
+footer {
+    background: #000000fe;
+    padding: 2rem;
+    text-align: left;
+    color: white;
+  }
+  
+  footer section {
+      float: right;
+  }
+  
+  footer p {
+      margin: 0;
+  }
+  
+  footer a {
+      transition: color 0.3s ease;
+      color: white;
+      text-decoration: none;
+  }
+  
+  footer a:hover {
+      color: #ff00aafe;
+  }
+   
    
    
