@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   .ochenta{
+    width: 80%;
+   }
+   .resumen{
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 9px;  
+    box-shadow: 5px 5px 5px #ff00aafe;
+    background: #000000fe; 
+    color: #fff;
+    line-height: 40px;
+   }
+   .botones{
+    display: block;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 9px;  
+    box-shadow: 5px 5px 5px #6f6d6dfe;
+    background: #ff00aafe; 
+   }
+   .card{
+    border-radius: 9px;  
+    box-shadow: 5px 5px 5px #6f6d6dfe;
+   }
+   
+   
